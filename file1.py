@@ -13,7 +13,7 @@ class Calc:
 
 #main
 obj = Calc(3,1)
-print(obj.add())
-print(obj.sub())
+#print(obj.add())
+#print(obj.sub())
 
         
