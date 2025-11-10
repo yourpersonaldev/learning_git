@@ -8,7 +8,7 @@ class Calc:
         return self.num2 + self.num1
     
     def sub(self):
-        return self.num1 - self.num2
+        return self.num2 - self.num1
     
 
 #main
